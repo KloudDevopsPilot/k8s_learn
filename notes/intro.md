@@ -7,6 +7,6 @@
 
 ## Why do we need Container Orchestration
 
-![why_orchestration](../img/why_orchestration.png)
-![why_orchestration_1](../img/why_orchestration_1.png)
+![why_orchestration](../img/orchestration.png)
+![why_orchestration_1](../img/orchestration_1.png)
 
