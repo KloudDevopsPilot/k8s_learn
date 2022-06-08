@@ -13,4 +13,4 @@
 
 ## What is Container Orchestration
 
-![why_orchestration_1](orchestration_2.png)
+![orchestration_2](../img/orchestration_2.png)
