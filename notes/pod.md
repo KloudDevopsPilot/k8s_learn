@@ -14,6 +14,14 @@
 
 ![smalles_unit](../img/pod/unit.png)
 
+## Why POD abstraction, Why Not Containers directly
+
+* problem with container port mapping (Port Conflicts)
+
+* replcaing conatiner runtime easily
+
+![why_pod](../img/pod/why_pod.png)
+
 
 ## Pod deployment 
 
@@ -30,3 +38,22 @@
 ## Multi-Container POD
 
 ![multi_container_pod](../img/pod/multi_container_pod.png)
+
+
+## Pod Networking 
+
+* Container - Container commnication
+
+* POD - POD communication
+
+  * Inter POD communication (with in same node)
+
+  * Intra POD communication (with in different node)
+
+* POD - Service communication
+
+* External World - Service communication
+
+## Container - Container commnication
+
+### Docker conatiner - container communication
