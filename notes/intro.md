@@ -10,3 +10,7 @@
 ![why_orchestration](../img/orchestration.png)
 ![why_orchestration_1](../img/orchestration_1.png)
 
+
+## What is Container Orchestration
+
+![why_orchestration_1](orchestration_2.png)
