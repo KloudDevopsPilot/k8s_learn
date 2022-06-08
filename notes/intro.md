@@ -13,4 +13,8 @@
 
 ## What is Container Orchestration
 
-![orchestration_2](../img/what_is_orchestration.png)
+![what_is_orchestration](../img/what_is_orchestration.png)
+
+## K8's architecture
+
+![k8s_architecture](../img/k8s_architecture.png)
