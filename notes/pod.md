@@ -6,7 +6,7 @@
 * automic unit of scheduling.
 * pods are the smallest, most basic deployable objects in Kubernetes.
 * a pod represents a single instance of a running process in your cluster.
-* each pod gets its own ip address, when POD dies a new IP address assigned to POD
+* each pod gets its own unique ip address, when POD dies a new unique IP address assigned to POD
 *  
   * in normal use-cases, 1 POD = 1 Conatiner
   * in exceptional use-cases 1 POD = multiple containers
@@ -25,3 +25,8 @@
 * if load increase we will scaleup(create) pods, if load decrease we will scaledown(delete) the pods.
 
 ![pod_scaling](../img/pod/pod_scaling.png)
+
+
+## Multi-Container POD
+
+![multi_container_pod](../img/pod/multi_container_pod.png)
