@@ -11,7 +11,7 @@
   * [`Notes`](notes/pod_notes.md)
   * [`Demo`](demos/pod_demo.md)
 * ReplicationController
-  * [`Notes`](notes/pod_notes.md)
+  * [`Notes`](notes/rc_notes.md)
   * [`Demo`](demos/pod_demo.md)
 * ReplicaSet
   * [`Notes`](notes/pod_notes.md)
