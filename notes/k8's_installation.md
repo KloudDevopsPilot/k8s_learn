@@ -2,6 +2,6 @@
 
 ## 1 Master , 2 Worker Nodes on GCP Ubuntu VM Instances
 
-![k8s_installtion](../img/cluster_installation.png)
+![k8s_installtion](../img/intro/cluster_installation.png)
 
 ## configuration for accessing kubs cluster from local machine using kubectl
