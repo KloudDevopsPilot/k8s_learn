@@ -32,4 +32,6 @@
 
 `Note:-`
 
+* Replication Controller replaced with newer version called `ReplicaSet`
+
 ![rc_note](../img/rc/rc_note.png)
