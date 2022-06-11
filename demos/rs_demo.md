@@ -27,31 +27,31 @@ spec:
 
 ## Deploy ReplicaSet
 >
-  kubectl apply -f <FILENAME.YAML>
+    kubectl apply -f <FILENAME.YAML>
 
 ## Display ReplicaSet (rs)
 >
-  kubectl get rs
-  kubectl get rs <RS-NAME> -o wide
-  kubectl get rs <RS-NAME> -o yaml
-  kubectl get rs -l <LABEL>
+    kubectl get rs
+    kubectl get rs <RS-NAME> -o wide
+    kubectl get rs <RS-NAME> -o yaml
+    kubectl get rs -l <LABEL>
 
 ## Displaying Pods
 >
-  kubectl get pods
-  kubectl get pods -l <LABEL>
+    kubectl get pods
+    kubectl get pods -l <LABEL>
 
 ## Print Details of ReplicaSet
 >
-  kubectl describe rs <RS-NAME>
+    kubectl describe rs <RS-NAME>
 
 ## Print Details of ReplicaSet
 >
-  kubectl scale rs <RS-NAME> --replicas=[COUNT]
+    kubectl scale rs <RS-NAME> --replicas=[COUNT]
 
 ## Editing ReplicaSet
 >
-  kubectl edit rs <RS-NAME>
+    kubectl edit rs <RS-NAME>
 
 ## Running operations directly on the YAML file
 >
@@ -65,4 +65,4 @@ spec:
 
 ## Deleting ReplicaSet
 >
-  kubectl delete rs <RS-NAME>
+    kubectl delete rs <RS-NAME>
