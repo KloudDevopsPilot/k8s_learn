@@ -2,7 +2,6 @@
 
 ## References
 
-* -----------
 * <https://kubernetes.io/docs/concepts/workloads/pods/>
 * <https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/>
 * <https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/>
