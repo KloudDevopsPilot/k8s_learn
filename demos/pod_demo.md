@@ -2,7 +2,7 @@
 
 ## nginx-pod.yaml
 
->
+```yaml
 apiVersion: v1
 kind: Pod
 metadata:
@@ -14,6 +14,7 @@ spec:
   containers:
     - name: nginx-container
       image: nginx:1.18
+```
 
 ## Deploy Pods
 >
