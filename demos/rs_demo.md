@@ -55,13 +55,13 @@ spec:
 
 ## Running operations directly on the YAML file
 >
-  kSYNTAX: kubectl [OPERATION] –f [FILE-NAME.yaml]
+    SYNTAX: kubectl [OPERATION] –f [FILE-NAME.yaml]
 
-  kubectl get –f [FILE-NAME.yaml]
-  kubectl describe –f [FILE-NAME.yaml]
-  kubectl edit –f [FILE-NAME.yaml]
-  kubectl delete –f [FILE-NAME.yaml]
-  kubectl create –f [FILE-NAME.yaml]
+    kubectl get –f [FILE-NAME.yaml]
+    kubectl describe –f [FILE-NAME.yaml]
+    kubectl edit –f [FILE-NAME.yaml]
+    kubectl delete –f [FILE-NAME.yaml]
+    kubectl create –f [FILE-NAME.yaml]
 
 ## Deleting ReplicaSet
 >
