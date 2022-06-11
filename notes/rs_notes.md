@@ -1,5 +1,9 @@
 # ReplicaSet (Master Node ControllerManager ---> ReplicaSetController)
 
+## References
+
+* <https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#how-a-replicaset-works/>
+
 * ReplicaSet is Next-generation of Replication Controller.
 * both Replication Controller and ReplicaSet works same.
 

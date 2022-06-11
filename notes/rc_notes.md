@@ -1,5 +1,9 @@
 # Replication Controller
 
+## References
+
+* <https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/>
+
 ## Why Replication Controller
 
 ![why_rc](../img/rc/why_rc.png)
