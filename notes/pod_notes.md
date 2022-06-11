@@ -41,12 +41,13 @@
 
 ![multi_container_pod](../img/pod/multi_container_pod.png)
 
-
 ## Pod Life Cycle
 
+## Pod Walkthrough
 
+![pod_walkthrough](../img/pod/pod_walkthrough.png)
 
-## Pod Networking 
+## Pod Networking
 
 * Container - Container commnication
 
@@ -63,3 +64,5 @@
 ## Container - Container commnication
 
 ### Docker conatiner - container communication
+
+
