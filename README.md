@@ -28,5 +28,9 @@
 * ConfigMap & Secrets
   * [`Notes`](notes/pod_notes.md)
   * [`Demo`](demos/pod_demo.md)
-* [`Affinity,Taint&Tolerations`](notes/pod.md)
-* [`Namespaces&ResourceLimits`](notes/pod.md)
+* [`Affinity,Taint&Tolerations`]
+  * [`Notes`](notes/pod_notes.md)
+  * [`Demo`](demos/pod_demo.md)
+* [`Namespaces&ResourceLimits`]
+  * [`Notes`](notes/ns_rl_notes.md)
+  * [`Demo`](demos/ns_rl_demo.md)
