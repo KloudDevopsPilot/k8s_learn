@@ -22,3 +22,13 @@
 
 * [`Notes`](ramped_dep_notes.md)
 * [`Demo`](../demos/ramped_dep_demo.md)
+
+## Blue & Green
+
+* [`Notes`](ramped_dep_notes.md)
+* [`Demo`](../demos/ramped_dep_demo.md)
+
+## Canary
+
+* [`Notes`](ramped_dep_notes.md)
+* [`Demo`](../demos/ramped_dep_demo.md)
