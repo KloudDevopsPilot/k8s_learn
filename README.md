@@ -20,8 +20,8 @@
   * [`Notes`](notes/pod_notes.md)
   * [`Demo`](demos/pod_demo.md)
 * Deployment Strategies
-  * [`Notes`](notes/pod_notes.md)
-  * [`Demo`](demos/pod_demo.md)
+  * [`Notes`](notes/deployment_notes.md)
+  * [`Demo`](demos/deployment_demo.md)
 * Services
   * [`Notes`](notes/pod_notes.md)
   * [`Demo`](demos/pod_demo.md)
