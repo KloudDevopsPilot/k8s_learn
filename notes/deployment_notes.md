@@ -16,3 +16,9 @@
 
 * [`Notes`](recreate_dep_notes.md)
 * [`Demo`](../demos/recreate_dep_demo.md)
+
+
+## Ramped
+
+* [`Notes`](ramped_dep_notes.md)
+* [`Demo`](../demos/ramped_dep_demo.md)

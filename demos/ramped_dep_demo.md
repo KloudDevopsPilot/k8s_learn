@@ -1,4 +1,4 @@
-# Recreate Deployment Workshop
+# Ramped Deployment Workshop
 
 ## nginx-dep.yaml (V1.18)
 
@@ -25,17 +25,21 @@ spec:
         - containerPort: 80
 ```
 
-## nginx-dep-recreate.yaml (V1.23)
+## nginx-ramped-recreate.yaml (V1.23)
 
 ```yaml
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: nginx-deploy
 spec:
-  replicas: 3
+  replicas: 10
   strategy:
-    type: Recreate
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 2
+      maxUnavailable: 0
   selector:
     matchLabels:
       app: nginx-app
@@ -50,4 +54,5 @@ spec:
         image: nginx:1.23
         ports:
         - containerPort: 80
+        
 ```

@@ -5,7 +5,8 @@
 ## inside yaml file
 
 ```yaml
-
+apiVersion: apps/v1
+kind: Deployment
 spec:
   replicas: 3
   strategy:
