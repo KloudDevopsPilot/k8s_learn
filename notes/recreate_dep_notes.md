@@ -15,3 +15,7 @@ spec:
     ...
 
 ```
+
+## Link to demo
+
+* [`Demo`](../demos/recreate_dep_demo.md)

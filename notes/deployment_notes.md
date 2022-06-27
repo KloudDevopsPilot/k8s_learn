@@ -14,5 +14,5 @@
 
 ## Recreate
 
-* [`Notes`](recreate_dep.md)
+* [`Notes`](recreate_dep_notes.md)
 * [`Demo`](../demos/recreate_dep_demo.md)
