@@ -19,8 +19,8 @@
 * Deployment
   * [`Notes`](notes/deployment_notes.md)
 * Services
-  * [`Notes`](notes/pod_notes.md)
-  * [`Demo`](demos/pod_demo.md)
+  * [`Notes`](notes/service_notes.md)
+  * [`Demo`](demos/service_demo.md)
 * ConfigMap & Secrets
   * [`Notes`](notes/pod_notes.md)
   * [`Demo`](demos/pod_demo.md)
